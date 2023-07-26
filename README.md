@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lucas
 #### I am a Software Developer
-![I am a Software Developer](https://www.linkedin.com/in/lucas-rodrigues-sanches/)
+![I am a Software Developer](https://mundoconectado.com.br/uploads/chamadas/capa-programacao.jpg)
 
 I am studying back-end and searching a first exp
 
